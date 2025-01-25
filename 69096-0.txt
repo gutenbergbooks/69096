@@ -13,7 +13,7 @@ Title: Ashcliffe Hall
 
 Author: Emily Sarah Holt
 
-Release Date: October 3, 2022 [eBook #69096]
+Release Date: October 4, 2022 [eBook #69096]
 
 Language: English
 
@@ -3246,11 +3246,11 @@ grandmother used to tell me."
 
 "What did she tell you about it, Cicely?"
 
-"She were to Exeter,[1] Mrs. Celia, and she lived till I was a matter
+"She were to Exeter,[1a] Mrs. Celia, and she lived till I was a matter
 of fifteen; and many a tale she's told me of their doings in them old
 times.  But the one I always liked best was one her mother had told
 her.  Her mother had been a young maid when the burnings was a-going
-on; she were to London,[1] and was woman to a lady, one of them as
+on; she were to London,[1b] and was woman to a lady, one of them as
 was burnt."
 
 "Tell me about it, Cicely," requested Celia, with feelings of
@@ -4003,7 +4003,7 @@ own room, and relieved her feelings by another fit of crying.
 
 
 
-[1] A Devonshire phrase, as well as an American one, signifying, in
+[1a][1b] A Devonshire phrase, as well as an American one, signifying, in
 the former case, "she belonged to, or lived at," the place.
 
 [2] Foxe's "Acts and Monuments," ed. Townsend, 1846, vol. v., p. 550.
